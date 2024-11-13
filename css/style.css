@@ -1,0 +1,22 @@
+
+body {
+    overflow-x: hidden;
+}
+
+.icones img{
+    width: 1.3em;
+}
+
+.foto img{
+    width: 2em;
+}
+
+.login{
+    width: 50%;
+    margin: auto;
+    border-radius: 20px;
+}
+
+a {
+    text-decoration: none;
+}
